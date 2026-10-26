@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Belly is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.bellycard.com
+Belly provides a customer loyalty and marketing automation platform for small and medium businesses. Founded in 2011, Belly offers a customizable loyalty program that integrates with point-of-sale systems, delivers analytics, and helps businesses engage customers through rewards, campaigns, and personalized experiences. The service is used by retailers, restaurants, and other consumer‑facing brands to build lasting relationships and gather actionable insights.
+
+**Areas:** Loyalty · Marketing · Small-Business · Retail · SaaS · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bellycard.com)
+- [Pricing](https://www.bellycard.com/business/pricing/)
+- [Sign up](https://www.bellycard.com/get-sub/sign-up/)
+- [Support](https://www.bellycard.com/support)
+- [Blog](https://www.bellycard.com/resources/category/blog)
+- [Terms of service](https://www.bellycard.com/terms-policy)
+- [Privacy policy](https://www.bellycard.com/privacy/)
+- [GitHub](https://github.com/bellycard)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/belly/](https://apis.io/providers/belly/).
